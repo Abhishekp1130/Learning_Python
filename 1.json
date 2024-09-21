@@ -1,0 +1,53 @@
+{
+    "name": "Abhishek Puttaswamy",
+    "email": "abhishek@example.com",
+    "location": "India",
+    "skills": {
+        "data_analysis": [
+            "Excel",
+            "Power BI",
+            "MySQL",
+            "Python"
+        ],
+        "web_development": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    "projects": [
+        {
+            "name": "Sales Insights Analysis",
+            "technologies": [
+                "MySQL",
+                "Power BI"
+            ],
+            "details": "Analyzed sales data to generate key insights for medium-sized companies."
+        },
+        {
+            "name": "Adidas Sales Analysis",
+            "technologies": [
+                "Power BI",
+                "Power Query Editor"
+            ],
+            "details": "Sales analysis including data modeling and KPIs."
+        }
+    ],
+    "education": {
+        "degree": "Bachelor's in Computer Applications",
+        "institution": "University of XYZ"
+    },
+    "experience": [
+        {
+            "role": "Pre-admission team member",
+            "company": "Unacademy",
+            "description": "Managed data collection and reporting across 60+ offline centers."
+        },
+        {
+            "role": "Business Analyst Intern",
+            "company": "Techvaria Solutions Pvt Ltd",
+            "description": "Applied data analysis skills to improve business processes."
+        }
+    ],
+    "new_key": "new_value"
+}
