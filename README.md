@@ -2,6 +2,11 @@
 🐍 Python Data Analysis and Web Scraping
 Welcome to my Python learning repository! This repository contains my projects and scripts focused on data analysis 📊 and web scraping 🌐. Python offers powerful libraries that simplify data manipulation, visualization, and extraction from the web, making it an ideal language for data-centric tasks.
 
+![2024-09-21 (1)](https://github.com/user-attachments/assets/9c66fff5-67c4-4559-a759-6a6af987d1b1)
+![2024-09-21 (9)](https://github.com/user-attachments/assets/92462f2d-767e-4106-94c5-1816d4cb1a35)
+![2024-09-21 (10)](https://github.com/user-attachments/assets/30a58a5d-1776-4fec-a7bb-3b2fd4236fe0)
+![2024-09-21 (12)](https://github.com/user-attachments/assets/17c01ed1-08f4-4a45-8307-b1026b349540)
+
 📘 Introduction
 This repository showcases the application of Python in data analysis and web scraping. Whether you're analyzing large datasets or extracting useful information from websites, Python provides a versatile environment for both.
 
