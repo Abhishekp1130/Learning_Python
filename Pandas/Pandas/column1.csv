@@ -1,0 +1,11 @@
+EmployeeID,FirstName,LastName,Department,Bonus %,Salary
+1,John,Doe,Engineering,5,60000
+2,Jane,Smith,Marketing,0,55000
+3,Emily,Jones,Finance,10,75000
+4,Michael,Johnson,Engineering,0,65000
+5,Sarah,Williams,Marketing,7,58000
+6,David,Brown,Finance,0,72000
+7,Laura,Garcia,Engineering,12,69000
+8,James,Martinez,Marketing,4,57000
+9,Olivia,Wilson,Finance,15,80000
+10,Daniel,Anderson,Engineering,0,62000

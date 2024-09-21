@@ -1,0 +1,10 @@
+1,Date ,category,subcategory,Price,payment_mode,Day,category,initials
+2,1st jan 2020,"food, F",swiggy,300,upi,1st jan,food, F
+3,2 nd jan 2020,"grocerry, G",fruits ,500,cash,2nd jan,grocerry, G
+4,3 nd jan 2020,"grocerry, G",milk,200,card,3rd jan,grocerry, G
+5,4 nd jan 2020,"clothes, C",jeans,1500,card,4th jan,clothes, C
+6,5 nd jan 2020,"household, H",detergent,600,upi,5th jan,household, H
+7,6 nd jan 2020,"grocerry, G",dry fruits,1200,upi,6th jan,grocerry, G
+8,7 nd jan 2020,"appliances, A",oven,5000,card,7th jan,appliances, A
+9,8 nd jan 2020,"food, F",zomato,200,cash,8th jan,food, F
+10,9 nd jan 2020,"household, H",conditioner,450,upi,9th jan,household, H

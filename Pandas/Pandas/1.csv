@@ -1,0 +1,11 @@
+Name,Age,Gender,Department,Salary
+John Doe,29,Male,Engineering,50000
+Jane Smith,34,Female,Marketing,60000
+Emily Davis,,Female,Engineering,
+Michael Brown,45,Male,,80000
+Jessica White,30,Female,Finance,70000
+Tom Clark,26,Male,Engineering,52000
+Anna Scott,,Female,HR,48000
+Chris Lee,32,Male,Marketing,
+Sarah Walker,29,Female,Finance,68000
+David King,40,Male,Engineering,75000
